@@ -192,4 +192,4 @@ See `/examples` directory:
 
 ## License
 
-MIT © [Your Name]
+MIT © Arjun-M
